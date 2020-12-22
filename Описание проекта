@@ -1,0 +1,2 @@
+Реализован режим OCB с импользванием библиотеки BOOTAN 
+Стандарт https://www.cs.ucdavis.edu/~rogaway/papers/ocb-full.pdf
